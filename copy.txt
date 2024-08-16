@@ -1,0 +1,1 @@
+conda activate "P:\Projects\End to End Ml Project with Deployment\MLPROJECT"
