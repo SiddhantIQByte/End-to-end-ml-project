@@ -8,7 +8,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-.artificats
+.artificats/
+.artifacts/
 build/
 develop-eggs/
 dist/
