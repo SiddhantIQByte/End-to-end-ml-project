@@ -3,4 +3,6 @@ numpy
 seaborn
 scikit-learn
 os-sys
+xgboost
+catboost
 -e . 
